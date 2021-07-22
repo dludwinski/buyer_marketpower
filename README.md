@@ -1,13 +1,19 @@
-# buyer_marketpower
+# Buyer Marketpower: Insurer-Provider Bargaining
 [`Lectures`](#lectures) | [`Details`](#details) |
 [`FAQ`](#faq) | [`License`](#license)
 
-## Lectures
+## Project
 
-*Note: While I have provided PDF versions of the lectures, they are best viewed 
-in the original HTML format.*
+*Note: I am just learning how to use **Markdown**.*
 
-5. Data wrangling & tidying
+> They say markdown is better. Is it true?
+
+- Well, it certainly is better than trying to write HTML
+- And here is `some thing of code`
+- Links are much easier to include, such as [my website](http://dludwinski.com/ "so much to learn, so little time!")
+- And short links are even cooler. I am learning a lot from [Grant McDermott's course][1]
+
+1. I am mainly trying to version control my code in a better way
     - Tidyverse \[[**.html**](https://raw.githack.com/uo-ec607/lectures/master/05-tidyverse/05-tidyverse.html) | [**.pdf**](https://raw.githack.com/uo-ec607/lectures/master/05-tidyverse/05-tidyverse.pdf) | [**.Rmd**](https://raw.githack.com/uo-ec607/lectures/master/05-tidyverse/05-tidyverse.Rmd)\]
     - data.table \[[**.html**](https://raw.githack.com/uo-ec607/lectures/master/05-datatable/05-datatable.html) | [**.pdf**](https://raw.githack.com/uo-ec607/lectures/master/05-datatable/05-datatable.pdf) | [**.Rmd**](https://raw.githack.com/uo-ec607/lectures/master/05-datatable/05-datatable.Rmd)\]
 6. Webscraping: (1) Server-side & CSS \[[**.html**](https://raw.githack.com/uo-ec607/lectures/master/06-web-css/06-web-css.html) | [**.pdf**](https://raw.githack.com/uo-ec607/lectures/master/06-web-css/06-web-css.pdf) | [**.Rmd**](https://raw.githack.com/uo-ec607/lectures/master/06-web-css/06-web-css.Rmd)\]
@@ -32,3 +38,4 @@ If you actually want to run the analysis and code on your own system (highly rec
 
 All of the lecture material is written in R Markdown. For the slide decks (lectures 1--5) I'm using [xaringan](https://github.com/yihui/xaringan). For the notebooks (lecture 6 and onwards), I using my [lecturenotes](https://github.com/grantmcdermott/lecturenotes) template.
 
+[1]: https://github.com/yihui/xaringan
